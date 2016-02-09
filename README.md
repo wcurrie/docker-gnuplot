@@ -1,4 +1,4 @@
-Version 4.6 patchlevel 6 in a container.
+Gnuplot 5.0 patchlevel rc2 in a container.
 
 Intended for headless plotting of a .gp file in the current directory. Eg:
 
